@@ -1,29 +1,29 @@
-# PetFitServis
+# PetFitService
 
 ![PetFit Logo](https://i.hizliresim.com/3ah3f9i.png)
 
-PetFitServis, evcil hayvanlarınızın sağlık ve bakım ihtiyaçlarını yönetmenize yardımcı olan bir Web API servisidir. Bu servis, evcil hayvanınızın aşıları, bakımları ve genel sağlık durumu hakkında bilgi edinmenizi sağlar.
+PetFitServis is a Web API service that helps you manage your pets' health and care needs. This service allows you to learn about your pet's vaccinations, care and general health.
 
-## Veritabanı Şeması
+## Database Schema
 
-![Veritabanı Şeması](https://showme.redstarplugin.com/d/Dn8KFj2B)
+![Database Diagram](https://showme.redstarplugin.com/d/Dn8KFj2B)
 
-Veritabanı şeması, servisin nasıl veri sakladığını ve işlediğini gösterir. Veritabanı, evcil hayvanların aşıları, bakımları ve genel sağlık durumu hakkında bilgileri saklar.
+The database schema shows how the service stores and processes data. The database stores information about the vaccinations, care and general health of pets.
 
-## Kurulum
+## Setup
 
-1. Bu repo'yu klonlayın.
-2. `petDb.sql` dosyasını kullanarak veritabanınızı oluşturun.
-3. Projeyi yerel makinenizde çalıştırın.
+1. Clone this repo.
+2. Create your database using the `petDb.sql` file.
+3. Run the project on your local machine.
 
-## Kullanım
+## Use
 
-API'yi kullanmak için belgeleri inceleyin. Belgeler, API'nin nasıl kullanılacağına dair ayrıntılı bilgiler sağlar.
+Review the documentation for using the API. The documentation provides detailed information on how to use the API.
 
-## Katkıda Bulunma
+## Contribute
 
-Bu projeye katkıda bulunmak isterseniz, lütfen önce [katkıda bulunma kurallarını](CONTRIBUTING.md) okuyun.
+If you would like to contribute to this project, please read the [contribution rules](CONTRIBUTING.md) first.
 
-## Lisans
+## Licence
 
-Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır.
+This project is licensed under [MIT license](LICENSE).
